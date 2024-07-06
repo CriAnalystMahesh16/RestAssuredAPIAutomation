@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredAPIAutomation"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.046">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="0.046"
+                classname="com.theRohitKingKohali.integrationtc.TCIntegration$BookingTest">
+            </testcase>
+            <testcase
+                name="testUpdateBookingByID"
+                time="0.000"
+                classname="com.theRohitKingKohali.integrationtc.TCIntegration$BookingTest">
+            </testcase>
+            <testcase
+                name="testVerifyBookingId"
+                time="0.000"
+                classname="com.theRohitKingKohali.integrationtc.TCIntegration$BookingTest">
+            </testcase>
+            <testcase
+                name="testDeleteBookingById"
+                time="0.000"
+                classname="com.theRohitKingKohali.integrationtc.TCIntegration$BookingTest">
+            </testcase>
+</testsuite>

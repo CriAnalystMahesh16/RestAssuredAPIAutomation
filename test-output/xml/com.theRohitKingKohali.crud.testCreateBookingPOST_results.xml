@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredAPIAutomation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.855">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="3.855"
+                classname="com.theRohitKingKohali.crud.testCreateBookingPOST">
+            </testcase>
+</testsuite>
