@@ -2,9 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/Mahesh Waghmode/IdeaProjects/RestAssuredAPIAutomation/src/test/java/com/theRohitKingKohali/integrationtc/TCIntegration.java">
+          name="C:/Users/Mahesh Waghmode/IdeaProjects/RestAssuredAPIAutomation/src/test/java/com/theRohitKingKohali/ddt/vmoLoginAPITC.java">
         <classes>
-            <class name="com.theRohitKingKohali.integrationtc.TCIntegration">
+            <class name="com.theRohitKingKohali.ddt.vmoLoginAPITC">
+                <methods>
+                    <include name="testVMOLogin"/>
+                </methods>
             </class>
         </classes>
     </test>

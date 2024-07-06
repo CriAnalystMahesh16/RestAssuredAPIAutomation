@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Mahesh Waghmode/IdeaProjects/RestAssuredAPIAutomation/src/test/java/com/theRohitKingKohali/ddt/vmoLoginAPITC.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.046">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVMOLogin"
+                time="0.002"
+                classname="com.theRohitKingKohali.ddt.vmoLoginAPITC">
+            </testcase>
+            <testcase
+                name="testVMOLogin"
+                time="0.044"
+                classname="com.theRohitKingKohali.ddt.vmoLoginAPITC">
+            </testcase>
+</testsuite>
