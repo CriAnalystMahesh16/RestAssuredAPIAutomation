@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="theRohitKingKohali1"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.870">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethod2"
+                time="0.149"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods3"
+                time="0.143"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods6"
+                time="0.000"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods1"
+                time="0.143"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods"
+                time="0.143"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods5"
+                time="0.143"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods4"
+                time="0.149"
+                classname="com.theRohitKingKohali.misc.parallel.MainClass">
+            </testcase>
+</testsuite>

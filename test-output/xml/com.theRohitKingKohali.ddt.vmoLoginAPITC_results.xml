@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.046">
+           time="2.738">
     <properties></properties>
 
 
 
             <testcase
                 name="testVMOLogin"
-                time="0.002"
+                time="2.410"
                 classname="com.theRohitKingKohali.ddt.vmoLoginAPITC">
             </testcase>
             <testcase
                 name="testVMOLogin"
-                time="0.044"
+                time="0.328"
                 classname="com.theRohitKingKohali.ddt.vmoLoginAPITC">
             </testcase>
 </testsuite>

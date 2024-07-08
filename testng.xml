@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
+    <listeners>
+        
+        
+        <listener class-name="com.theRohitKingKohali.extentreports.TestNGListener"></listener>
+    </listeners>
     <test verbose="2" preserve-order="true"
-          name="C:/Users/Mahesh Waghmode/IdeaProjects/RestAssuredAPIAutomation/src/test/java/com/theRohitKingKohali/ddt/vmoLoginAPITC.java">
+          name="C:/Users/Mahesh Waghmode/IdeaProjects/RestAssuredAPIAutomation/src/test/java/com/theRohitKingKohali/extentreports">
+
         <classes>
-            <class name="com.theRohitKingKohali.ddt.vmoLoginAPITC">
+            <class name="com.theRohitKingKohali.extentreports.TCIntegrationExtentFlow">
                 <methods>
-                    <include name="testVMOLogin"/>
+                    <include name="testCreateBooking"/>
+                    <include name="testVerifyBookingId"/>
+                    <include name="testUpdateBookingByID"/>
+                    <include name="testDeleteBookingById"/>
                 </methods>
             </class>
         </classes>
